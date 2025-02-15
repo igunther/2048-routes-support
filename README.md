@@ -11,7 +11,7 @@ If you encounter any issues or bugs, please email us at **[2048routes@gunther.cc
 Yes, you can do that in the Settings page.
 
 **3. Is there a way to turn off data collection?**  
-We value your privacy. While we do not provide an in-app toggle, you can review our [Privacy Policy](#) for more information on data collection and how to manage it.
+We value your privacy. While we do not provide an in-app toggle, you can review our [Privacy Policy](https://igunther.github.io/2048-routes-privacy-policy/) for more information on data collection and how to manage it.
 
 ## Contact Us
 
